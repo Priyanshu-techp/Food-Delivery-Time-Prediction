@@ -15,21 +15,16 @@ This project builds a machine learning model to predict delivery time. It involv
 ├── requirements.txt          
 ├── README.md          
 ├── .gitignore 
+└── Food delivery time analysis.pbix
 ```
 
 ## Objective
 
 To predict Food delivery time.
+And create beautifull deshboard using Power BI
 ---
 
-
-'Delivery_Time_min'
-num_col = ['Distance_km', 'Preparation_Time_min', 'Courier_Experience_yrs']
-obj_col = ['Weather', 'Traffic_Level', 'Time_of_Day', 'Vehicle_Type', 'Distance_category']
-
-
-
-## Features Used
+## Columns ussed
 - Distance_km
 - Preparation_Time_min	 
 - Courier_Experience_yrs	 
@@ -47,7 +42,7 @@ obj_col = ['Weather', 'Traffic_Level', 'Time_of_Day', 'Vehicle_Type', 'Distance_
 - Python (Pandas, NumPy, seaborn, matplotlib, Scikit-learn)
 - Streamlit (for deployment)
 - Joblib (for model saving/loading)
-
+- Power BI (for Analyse the data)
 ---
 
 ## Model & Evaluation
