@@ -1,0 +1,1001 @@
+Distance_km,Weather,Traffic_Level,Time_of_Day,Vehicle_Type,Preparation_Time_min,Courier_Experience_yrs,Delivery_Time_min,Distance_category
+7930.0,Windy,Low,Afternoon,Scooter,12,1.0,43,Close
+16420.0,Clear,Medium,Evening,Bike,20,2.0,84,So far
+9520.0,Foggy,Low,Night,Scooter,28,1.0,59,Close
+7440.0,Rainy,Medium,Afternoon,Scooter,5,1.0,37,Close
+19030.0,Clear,Low,Morning,Bike,16,5.0,68,So far
+19400.0,Clear,Low,Evening,Scooter,8,9.0,57,So far
+9520.0,Clear,Low,Morning,Bike,12,1.0,49,Close
+17390.0,Clear,Medium,Evening,Scooter,5,6.0,46,So far
+1780.0,Snowy,Low,Evening,Car,20,6.0,35,Very close
+10620.0,Foggy,Low,Evening,Scooter,29,1.0,73,Far
+16860.0,Snowy,Medium,Afternoon,Car,13,4.0,88,So far
+15540.0,Clear,Low,Night,Bike,29,1.0,76,So far
+10890.0,Clear,High,Night,Bike,12,5.0,53,Far
+4690.0,Rainy,Medium,Evening,Scooter,12,7.0,36,Very close
+2800.0,Clear,High,Morning,Scooter,10,4.579381443298969,33,Very close
+2170.0,Snowy,Low,Evening,Car,15,3.0,35,Very close
+17860.0,Rainy,Low,Afternoon,Bike,5,1.0,50,So far
+2530.0,Snowy,Low,Morning,Bike,6,8.0,24,Very close
+6580.0,Foggy,Low,Evening,Car,6,7.0,27,Close
+5380.0,Clear,Medium,Evening,Scooter,26,1.0,47,Close
+15560.0,Rainy,Low,Afternoon,Scooter,28,0.0,72,So far
+13080.0,Rainy,Low,Morning,Car,16,4.0,58,Far
+860.0,Clear,High,Afternoon,Bike,26,5.0,37,Very close
+5830.0,Clear,High,Evening,Car,27,9.0,56,Close
+11200.0,Clear,Medium,Morning,Bike,23,4.579381443298969,73,Far
+14590.0,Clear,Medium,Morning,Bike,15,6.0,64,Far
+12910.0,Windy,Medium,Evening,Bike,11,6.0,56,Far
+13920.0,Snowy,Low,Morning,Scooter,18,4.0,70,Far
+4040.0,Snowy,Low,Night,Bike,11,9.0,70,Very close
+18050.0,Clear,Medium,Evening,Scooter,10,7.0,123,So far
+12880.0,Clear,Medium,Morning,Scooter,8,5.0,52,Far
+19450.0,Rainy,High,Morning,Scooter,20,6.0,108,So far
+4580.0,Clear,High,Morning,Scooter,22,9.0,45,Very close
+19730.0,Foggy,Medium,Evening,Bike,27,4.0,111,So far
+2470.0,Windy,Medium,Morning,Bike,27,2.0,44,Very close
+17800.0,Snowy,Medium,Morning,Bike,16,9.0,73,So far
+5960.0,Clear,Medium,Afternoon,Bike,22,7.0,45,Close
+12850.0,Windy,Medium,Afternoon,Scooter,18,7.0,61,Far
+1020.0,Clear,Medium,Afternoon,Bike,25,4.0,34,Very close
+6840.0,Rainy,Medium,Night,Car,14,8.0,47,Close
+8680.0,Rainy,Medium,Morning,Bike,8,5.0,52,Close
+10690.0,Clear,Medium,Night,Bike,25,9.0,67,Far
+990.0,Clear,Medium,Evening,Bike,15,4.579381443298969,32,Very close
+1110.0,Clear,Low,Morning,Bike,5,6.0,8,Very close
+2160.0,Snowy,Low,Evening,Scooter,15,0.0,36,Very close
+13170.0,Windy,Medium,Afternoon,Bike,16,4.0,67,Far
+8790.0,Snowy,Low,Night,Bike,14,6.0,43,Close
+5930.0,Clear,Low,Afternoon,Scooter,19,3.0,36,Close
+2090.0,Rainy,Low,Night,Bike,23,2.0,36,Very close
+7570.0,Clear,Low,Morning,Bike,21,0.0,56,Close
+10520.0,Rainy,Medium,Afternoon,Scooter,8,4.0,56,Far
+4830.0,Rainy,Low,Morning,Car,25,9.0,47,Very close
+19810.0,Snowy,Medium,Afternoon,Car,20,5.0,104,So far
+10100.0,Rainy,Low,Evening,Car,8,4.0,50,Far
+7640.0,Windy,Low,Afternoon,Car,10,8.0,31,Close
+12350.0,Clear,Low,Morning,Scooter,10,6.0,35,Far
+5900.0,Rainy,Low,Evening,Car,26,9.0,44,Close
+900.0,Clear,Low,Afternoon,Bike,20,8.0,23,Very close
+11580.0,Clear,Medium,Morning,Scooter,16,2.0,61,Far
+16160.0,Clear,High,Afternoon,Bike,11,1.0,82,So far
+15510.0,Clear,Low,Evening,Bike,17,9.0,69,So far
+12160.0,Windy,High,Evening,Scooter,11,0.0,69,Far
+4960.0,Rainy,High,Morning,Bike,21,0.0,60,Very close
+3640.0,Windy,High,Evening,Bike,17,6.0,40,Very close
+2850.0,Clear,Low,Morning,Scooter,26,0.0,38,Very close
+10400.0,Clear,Low,Evening,Bike,16,4.0,52,Far
+12310.0,Windy,Low,Morning,Bike,29,4.0,68,Far
+3530.0,Clear,Medium,Afternoon,Bike,13,7.0,31,Very close
+15560.0,Clear,Medium,Evening,Bike,14,3.0,54,So far
+13600.0,Clear,Medium,Afternoon,Bike,27,0.0,87,Far
+15230.0,Snowy,High,Morning,Bike,5,0.0,62,So far
+4170.0,Clear,Low,Evening,Scooter,5,1.0,22,Very close
+3210.0,Rainy,High,Night,Scooter,16,0.0,42,Very close
+6380.0,Snowy,Low,Evening,Bike,16,1.0,111,Close
+16540.0,Rainy,Low,Afternoon,Scooter,6,7.0,51,So far
+12020.0,Clear,Low,Morning,Car,9,7.0,41,Far
+11940.0,Clear,Low,Evening,Bike,20,3.0,69,Far
+9080.0,Clear,Low,Afternoon,Scooter,14,5.0,49,Close
+3460.0,Snowy,Medium,Morning,Scooter,23,3.0,48,Very close
+6800.0,Foggy,Medium,Morning,Scooter,13,7.0,46,Close
+17380.0,Rainy,Medium,Afternoon,Scooter,11,2.0,92,So far
+3250.0,Clear,Low,Morning,Bike,23,7.0,32,Very close
+10280.0,Clear,Medium,Evening,Scooter,29,3.0,71,Far
+16140.0,Clear,Low,Night,Car,6,9.0,65,So far
+3550.0,Clear,Medium,Evening,Bike,23,0.0,43,Very close
+10650.0,Clear,Medium,Afternoon,Scooter,23,8.0,58,Far
+19030.0,Clear,Low,Afternoon,Car,26,5.0,68,So far
+7300.0,Clear,Low,Night,Scooter,14,7.0,28,Close
+7030.0,Clear,Low,Evening,Scooter,21,1.0,44,Close
+12430.0,Snowy,Low,Afternoon,Car,12,0.0,70,Far
+12760.0,Windy,High,Morning,Scooter,27,4.579381443298969,74,Far
+11390.0,Rainy,High,Evening,Scooter,14,1.0,72,Far
+19410.0,Clear,Low,Morning,Car,7,3.0,48,So far
+13170.0,Rainy,High,Evening,Scooter,17,8.0,69,Far
+8320.0,Rainy,Low,Afternoon,Car,12,2.0,49,Close
+1920.0,Clear,Low,Morning,Bike,8,7.0,14,Very close
+1150.0,Clear,Low,Afternoon,Scooter,26,4.0,30,Very close
+17800.0,Windy,High,Afternoon,Car,12,9.0,73,So far
+7460.0,Clear,Medium,Evening,Bike,8,5.0,42,Close
+7250.0,Clear,Medium,Afternoon,Scooter,18,4.0,45,Close
+16700.0,Clear,Medium,Afternoon,Scooter,28,1.0,76,So far
+17200.0,Rainy,High,Afternoon,Scooter,14,2.0,94,So far
+860.0,Clear,Medium,Afternoon,Car,21,7.0,28,Very close
+18760.0,Clear,Medium,Evening,Car,15,2.0,80,So far
+9220.0,Clear,Medium,Afternoon,Car,18,9.0,57,Close
+2840.0,Clear,Low,Evening,Scooter,24,2.0,35,Very close
+17590.0,Clear,Low,Morning,Bike,24,6.0,69,So far
+14890.0,Snowy,High,Morning,Scooter,17,6.0,87,Far
+1300.0,Clear,Medium,Evening,Bike,22,4.0,31,Very close
+18990.0,Rainy,High,Afternoon,Bike,10,6.0,70,So far
+1600.0,Foggy,Low,Night,Scooter,24,4.579381443298969,37,Very close
+8260.0,Snowy,Low,Afternoon,Bike,15,1.0,57,Close
+10160.0,Clear,High,Night,Bike,12,5.0,52,Far
+12030.0,Clear,Medium,Morning,Car,20,5.0,65,Far
+14730.0,Rainy,Low,Afternoon,Bike,24,6.0,74,Far
+12560.0,Clear,High,Evening,Bike,17,5.0,69,Far
+5530.0,Clear,Medium,Afternoon,Bike,19,1.0,44,Close
+10180.0,Foggy,Medium,Morning,Bike,25,3.0,73,Far
+15500.0,Clear,Medium,Morning,Scooter,28,9.0,91,So far
+2980.0,Foggy,Medium,Night,Bike,11,2.0,27,Very close
+16690.0,Foggy,Medium,Evening,Scooter,8,2.0,65,So far
+11220.0,Windy,High,Evening,Bike,25,5.0,79,Far
+8530.0,Clear,Low,Evening,Scooter,8,2.0,41,Close
+12490.0,Clear,Medium,Morning,Bike,25,4.0,77,Far
+970.0,Clear,Low,Night,Scooter,24,8.0,26,Very close
+12600.0,Windy,Medium,Afternoon,Car,8,6.0,58,Far
+6910.0,Clear,Medium,Evening,Scooter,28,9.0,56,Close
+18970.0,Clear,Low,Evening,Car,25,4.0,141,So far
+4050.0,Clear,Medium,Evening,Bike,20,4.579381443298969,44,Very close
+14290.0,Windy,Medium,Morning,Bike,14,7.0,78,Far
+1300.0,Foggy,Low,Evening,Bike,19,5.0,29,Very close
+12110.0,Rainy,Low,Morning,Bike,9,5.0,59,Far
+14940.0,Clear,Medium,Morning,Bike,11,0.0,62,Far
+2290.0,Rainy,High,Afternoon,Car,8,8.0,80,Very close
+17360.0,Rainy,High,Afternoon,Bike,24,1.0,105,So far
+18480.0,Clear,Medium,Night,Bike,8,0.0,82,So far
+16250.0,Foggy,High,Morning,Bike,10,5.0,91,So far
+5130.0,Clear,Low,Morning,Car,15,4.0,30,Close
+15810.0,Clear,Low,Morning,Car,25,1.0,92,So far
+610.0,Clear,Low,Afternoon,Scooter,10,0.0,16,Very close
+5550.0,Foggy,High,Evening,Bike,18,1.0,116,Close
+19350.0,Clear,High,Morning,Bike,12,7.0,75,So far
+4030.0000000000005,Clear,Medium,Evening,Bike,9,5.0,25,Very close
+7090.0,Snowy,Low,Morning,Scooter,13,8.0,37,Close
+8250.0,Clear,Medium,Afternoon,Bike,7,9.0,28,Close
+11260.0,Clear,Low,Night,Bike,5,6.0,49,Far
+19700.0,Rainy,Low,Evening,Bike,10,2.0,60,So far
+800.0,Snowy,High,Evening,Bike,14,9.0,36,Very close
+7000.0,Rainy,Medium,Evening,Bike,17,9.0,49,Close
+14430.0,Clear,Medium,Morning,Car,14,4.0,113,Far
+6890.0,Rainy,Medium,Afternoon,Bike,11,6.0,43,Close
+5130.0,Foggy,Medium,Evening,Car,25,1.0,60,Close
+1500.0,Clear,Low,Afternoon,Bike,10,1.0,17,Very close
+2780.0,Clear,High,Afternoon,Scooter,9,0.0,41,Very close
+11310.0,Clear,Medium,Evening,Bike,7,0.0,54,Far
+15050.0,Clear,Medium,Evening,Car,12,2.0,66,So far
+5780.0,Foggy,Low,Afternoon,Scooter,9,9.0,33,Close
+11830.0,Clear,Low,Evening,Scooter,9,7.0,32,Far
+8080.0,Foggy,Low,Morning,Bike,25,2.0,61,Close
+16100.000000000002,Clear,Low,Evening,Bike,25,0.0,64,So far
+9740.0,Rainy,Medium,Evening,Scooter,7,8.0,37,Close
+17600.0,Clear,Low,Afternoon,Bike,27,3.0,69,So far
+10220.0,Snowy,Medium,Night,Bike,18,1.0,68,Far
+2190.0,Clear,Low,Evening,Bike,26,3.0,32,Very close
+11410.0,Windy,Medium,Afternoon,Scooter,17,4.0,68,Far
+4140.0,Clear,Medium,Morning,Scooter,14,2.0,30,Very close
+12650.0,Rainy,Low,Afternoon,Bike,18,8.0,60,Far
+4150.0,Clear,Medium,Morning,Car,17,8.0,46,Very close
+16800.0,Clear,High,Morning,Car,19,4.0,85,So far
+9060.0,Clear,Medium,Evening,Bike,23,4.0,47,Close
+13040.0,Clear,Medium,Morning,Scooter,20,6.0,65,Far
+10700.0,Clear,Medium,Afternoon,Scooter,8,5.0,44,Far
+6150.0,Foggy,Low,Evening,Scooter,26,5.0,48,Close
+16470.0,Snowy,High,Evening,Scooter,20,9.0,75,So far
+1390.0,Clear,Medium,Afternoon,Bike,15,4.0,24,Very close
+11140.0,Rainy,Medium,Morning,Scooter,7,3.0,47,Far
+3810.0,Rainy,High,Afternoon,Bike,5,6.0,31,Very close
+2390.0,Rainy,Medium,Evening,Bike,27,7.0,43,Very close
+11740.0,Clear,High,Evening,Car,6,3.0,54,Far
+8260.0,Clear,Low,Morning,Car,21,4.0,80,Close
+9540.0,Rainy,Medium,Evening,Scooter,11,5.0,47,Close
+3880.0,Clear,Medium,Morning,Bike,16,2.0,35,Very close
+950.0,Rainy,Medium,Morning,Car,27,0.0,44,Very close
+8590.0,Clear,Low,Night,Scooter,17,8.0,36,Close
+8590.0,Clear,Low,Evening,Bike,22,2.0,43,Close
+14210.0,Clear,Medium,Evening,Bike,24,4.579381443298969,58,Far
+13030.0,Foggy,Low,Morning,Scooter,9,1.0,50,Far
+8029.999999999999,Clear,Low,Evening,Scooter,14,8.0,42,Close
+13200.0,Snowy,Low,Morning,Car,14,3.0,62,Far
+12670.0,Clear,Medium,Evening,Car,10,3.0,65,Far
+17540.0,Clear,Medium,Morning,Car,16,8.0,54,So far
+9320.0,Clear,Low,Morning,Scooter,6,5.0,30,Close
+6030.0,Rainy,High,Afternoon,Car,8,6.0,46,Close
+15710.0,Clear,Low,Afternoon,Scooter,28,5.0,69,So far
+4870.0,Snowy,High,Evening,Bike,16,7.0,54,Very close
+18150.0,Rainy,High,Morning,Bike,22,7.0,108,So far
+780.0,Clear,Medium,Morning,Bike,6,1.0,17,Very close
+600.0,Clear,Low,Afternoon,Bike,26,3.0,30,Very close
+2090.0,Clear,Medium,Evening,Bike,5,5.0,16,Very close
+7490.0,Clear,Medium,Morning,Scooter,13,9.0,45,Close
+1410.0,Foggy,Medium,Evening,Bike,15,0.0,72,Very close
+18920.0,Clear,High,Morning,Scooter,27,4.0,100,So far
+12410.0,Clear,Medium,Morning,Car,10,1.0,51,Far
+1060.0,Clear,Low,Afternoon,Scooter,19,6.0,21,Very close
+18340.0,Clear,High,Night,Bike,9,4.0,92,So far
+13520.0,Clear,Low,Morning,Scooter,27,1.0,82,Far
+16790.0,Foggy,High,Afternoon,Bike,24,6.0,85,So far
+15390.0,Clear,Medium,Evening,Scooter,24,5.0,89,So far
+7390.0,Rainy,Medium,Morning,Scooter,25,6.0,60,Close
+10980.0,Rainy,Low,Morning,Scooter,10,6.0,55,Far
+11080.0,Snowy,Medium,Morning,Bike,9,0.0,57,Far
+5410.0,Clear,Medium,Night,Bike,14,5.0,36,Close
+940.0,Clear,High,Morning,Bike,9,6.0,21,Very close
+7270.0,Windy,Low,Afternoon,Bike,10,5.0,35,Close
+2990.0,Windy,Medium,Morning,Bike,27,5.0,41,Very close
+15280.0,Snowy,Low,Evening,Bike,16,5.0,72,So far
+2480.0,Windy,Medium,Afternoon,Car,14,6.0,27,Very close
+17130.0,Rainy,Low,Evening,Car,19,1.0,71,So far
+7170.0,Clear,Low,Afternoon,Bike,15,7.0,32,Close
+5470.0,Rainy,Low,Morning,Car,21,6.0,38,Close
+19530.0,Foggy,Low,Afternoon,Bike,11,6.0,87,So far
+7500.0,Clear,High,Morning,Bike,29,1.0,66,Close
+5610.0,Windy,Low,Night,Bike,25,9.0,48,Close
+4100.0,Clear,Low,Morning,Bike,21,3.0,37,Very close
+6220.0,Rainy,Medium,Morning,Bike,15,0.0,49,Close
+14770.0,Clear,High,Morning,Scooter,11,6.0,67,Far
+12550.0,Windy,Low,Evening,Bike,13,8.0,51,Far
+10310.0,Foggy,Medium,Morning,Scooter,19,5.0,62,Far
+8720.0,Snowy,Medium,Evening,Car,18,7.0,64,Close
+17070.0,Clear,Medium,Morning,Bike,20,6.0,73,So far
+8270.0,Clear,High,Afternoon,Scooter,13,5.0,58,Close
+7540.0,Snowy,Low,Afternoon,Bike,20,4.579381443298969,55,Close
+14070.0,Clear,High,Afternoon,Bike,5,8.0,67,Far
+19020.0,Clear,Medium,Afternoon,Bike,29,9.0,87,So far
+19000.0,Clear,High,Morning,Car,28,3.0,96,So far
+3830.0,Rainy,Medium,Afternoon,Bike,12,9.0,30,Very close
+10300.0,Clear,Low,Evening,Scooter,19,8.0,48,Far
+8090.0,Clear,High,Afternoon,Scooter,15,4.0,51,Close
+18060.0,Clear,Medium,Night,Bike,9,8.0,52,So far
+2760.0,Windy,Medium,Morning,Scooter,8,5.0,22,Very close
+12170.0,Snowy,Low,Evening,Bike,20,8.0,68,Far
+12330.0,Clear,Medium,Evening,Bike,22,9.0,75,Far
+1380.0,Clear,Medium,Evening,Scooter,5,8.0,13,Very close
+18490.0,Clear,Low,Afternoon,Scooter,14,6.0,71,So far
+10570.0,Snowy,Low,Afternoon,Bike,28,9.0,59,Far
+2000.0,Clear,High,Evening,Scooter,10,2.0,30,Very close
+3290.0,Clear,Medium,Afternoon,Scooter,17,4.0,32,Very close
+1940.0,Rainy,Medium,Morning,Bike,16,0.0,35,Very close
+6560.0,Windy,Medium,Morning,Bike,14,1.0,47,Close
+9580.0,Clear,High,Afternoon,Car,26,8.0,60,Close
+6950.0,Clear,Medium,Morning,Scooter,25,2.0,58,Close
+14050.0,Clear,High,Morning,Scooter,19,0.0,72,Far
+18970.0,Rainy,High,Night,Bike,20,8.0,108,So far
+13530.0,Rainy,Low,Evening,Bike,28,8.0,78,Far
+15140.0,Rainy,Medium,Morning,Bike,8,6.0,66,So far
+5960.0,Clear,Low,Afternoon,Bike,26,6.0,48,Close
+3430.0,Windy,Medium,Morning,Bike,7,6.0,23,Very close
+6240.0,Clear,Medium,Evening,Bike,15,3.0,52,Close
+17940.0,Rainy,High,Evening,Scooter,22,6.0,85,So far
+3540.0,Rainy,Medium,Evening,Bike,10,5.0,32,Very close
+16379.999999999998,Rainy,Medium,Night,Bike,7,4.579381443298969,90,So far
+7810.0,Clear,Low,Evening,Bike,11,4.0,42,Close
+8840.0,Clear,Medium,Morning,Bike,26,0.0,57,Close
+14090.0,Clear,Medium,Afternoon,Scooter,12,3.0,55,Far
+11920.0,Clear,Low,Afternoon,Scooter,14,4.0,46,Far
+17300.0,Clear,Low,Evening,Scooter,9,0.0,67,So far
+14080.0,Clear,High,Morning,Bike,28,6.0,66,Far
+2800.0,Clear,High,Afternoon,Bike,28,1.0,50,Very close
+17960.0,Clear,Medium,Morning,Bike,22,2.0,76,So far
+14090.0,Clear,High,Afternoon,Bike,12,6.0,67,Far
+9390.0,Clear,Low,Morning,Bike,14,2.0,37,Close
+17900.0,Clear,Low,Morning,Bike,23,4.579381443298969,85,So far
+4550.0,Rainy,Low,Afternoon,Bike,5,6.0,21,Very close
+6240.0,Snowy,Low,Afternoon,Bike,20,4.0,51,Close
+16920.0,Clear,Low,Morning,Scooter,29,0.0,70,So far
+14310.0,Clear,Medium,Morning,Bike,9,8.0,47,Far
+14660.0,Windy,Medium,Morning,Bike,20,2.0,77,Far
+2230.0,Clear,Low,Morning,Bike,7,6.0,14,Very close
+12650.0,Clear,Low,Evening,Bike,15,4.0,66,Far
+7240.0,Rainy,Medium,Evening,Bike,28,6.0,65,Close
+3010.0,Clear,Medium,Evening,Bike,14,4.0,26,Very close
+11520.0,Clear,Medium,Morning,Scooter,25,2.0,58,Far
+3950.0,Clear,Low,Afternoon,Bike,13,5.0,25,Very close
+1090.0,Clear,Medium,Morning,Scooter,6,2.0,17,Very close
+13990.0,Clear,High,Evening,Scooter,7,3.0,96,Far
+19320.0,Rainy,High,Morning,Car,21,7.0,112,So far
+11720.0,Rainy,Low,Evening,Bike,11,9.0,42,Far
+2130.0,Rainy,Low,Morning,Scooter,9,2.0,22,Very close
+8170.0,Clear,Medium,Afternoon,Scooter,20,9.0,44,Close
+12210.0,Clear,High,Morning,Bike,9,4.0,57,Far
+3170.0,Clear,Medium,Evening,Scooter,17,6.0,33,Very close
+18680.0,Snowy,Low,Afternoon,Bike,11,8.0,62,So far
+10950.0,Clear,Medium,Evening,Scooter,24,4.0,55,Far
+19260.0,Windy,Medium,Morning,Scooter,21,6.0,67,So far
+9440.0,Rainy,Medium,Evening,Scooter,28,8.0,63,Close
+4860.0,Foggy,Medium,Evening,Car,25,4.0,52,Very close
+5810.0,Foggy,Low,Afternoon,Bike,25,8.0,51,Close
+7340.0,Rainy,Low,Evening,Bike,22,8.0,47,Close
+17390.0,Foggy,Medium,Morning,Bike,25,4.0,100,So far
+5220.0,Snowy,Low,Evening,Bike,11,9.0,40,Close
+12320.0,Clear,Medium,Evening,Scooter,17,4.0,71,Far
+2150.0,Windy,Medium,Afternoon,Car,17,6.0,30,Very close
+9360.0,Rainy,High,Morning,Scooter,17,2.0,65,Close
+2280.0,Clear,Medium,Evening,Scooter,27,9.0,39,Very close
+14540.0,Clear,Medium,Evening,Bike,29,2.0,73,Far
+12150.0,Clear,High,Morning,Car,12,6.0,63,Far
+1400.0,Windy,Low,Evening,Bike,9,9.0,17,Very close
+3370.0,Clear,High,Morning,Bike,9,4.579381443298969,28,Very close
+3850.0,Rainy,Medium,Afternoon,Bike,26,3.0,46,Very close
+9030.0,Clear,Low,Morning,Bike,11,5.0,43,Close
+17990.0,Snowy,Low,Afternoon,Bike,15,3.0,63,So far
+16350.000000000002,Clear,Medium,Morning,Bike,16,0.0,66,So far
+19610.0,Clear,High,Evening,Bike,8,6.0,72,So far
+16290.0,Clear,Low,Morning,Bike,20,1.0,72,So far
+7840.0,Windy,Low,Afternoon,Bike,6,4.0,28,Close
+18170.0,Rainy,Low,Afternoon,Car,13,0.0,71,So far
+17890.0,Windy,Low,Morning,Bike,27,1.0,101,So far
+13340.0,Clear,Medium,Night,Bike,20,6.0,53,Far
+4430.0,Foggy,Low,Morning,Scooter,10,1.0,63,Very close
+13210.0,Clear,Medium,Morning,Scooter,12,4.0,63,Far
+2760.0,Windy,Medium,Night,Bike,6,2.0,27,Very close
+1500.0,Foggy,Medium,Evening,Scooter,15,4.0,32,Very close
+11040.0,Clear,Medium,Afternoon,Scooter,8,2.0,54,Far
+1220.0,Clear,Medium,Evening,Scooter,6,4.579381443298969,14,Very close
+14580.0,Clear,Low,Afternoon,Bike,13,4.579381443298969,57,Far
+18260.0,Rainy,High,Night,Scooter,28,7.0,93,So far
+3880.0,Foggy,Low,Evening,Car,27,9.0,42,Very close
+18070.0,Clear,High,Afternoon,Scooter,5,2.0,67,So far
+12110.0,Clear,Medium,Evening,Bike,28,0.0,75,Far
+7080.0,Clear,Medium,Afternoon,Scooter,5,8.0,27,Close
+3120.0,Rainy,Low,Evening,Scooter,14,5.0,28,Very close
+2029.9999999999998,Foggy,High,Evening,Car,14,4.0,36,Very close
+1800.0,Clear,Medium,Night,Bike,14,1.0,28,Very close
+5420.0,Clear,Low,Evening,Scooter,11,9.0,26,Close
+7800.0,Clear,Low,Evening,Scooter,23,5.0,52,Close
+8470.0,Rainy,Low,Afternoon,Scooter,19,0.0,48,Close
+6790.0,Rainy,Low,Evening,Scooter,16,1.0,39,Close
+13600.0,Rainy,Medium,Afternoon,Scooter,23,6.0,83,Far
+13060.0,Rainy,High,Morning,Bike,17,8.0,59,Far
+19930.0,Snowy,Low,Afternoon,Bike,6,6.0,59,So far
+11300.0,Snowy,Medium,Afternoon,Bike,15,8.0,70,Far
+6740.0,Rainy,Medium,Evening,Car,21,9.0,47,Close
+10490.0,Rainy,Low,Morning,Bike,28,9.0,66,Far
+8830.0,Clear,Medium,Evening,Scooter,12,3.0,109,Close
+7150.0,Clear,High,Night,Car,29,7.0,60,Close
+15940.0,Clear,Low,Evening,Bike,24,2.0,77,So far
+11260.0,Foggy,High,Afternoon,Bike,14,2.0,70,Far
+11870.0,Clear,Medium,Morning,Bike,10,6.0,43,Far
+2830.0,Windy,Medium,Afternoon,Scooter,14,6.0,28,Very close
+11740.0,Clear,Low,Afternoon,Car,20,1.0,52,Far
+2710.0,Clear,Low,Morning,Scooter,6,1.0,20,Very close
+10470.0,Clear,High,Evening,Scooter,14,7.0,55,Far
+4500.0,Snowy,High,Evening,Bike,24,0.0,66,Very close
+19740.0,Clear,Low,Morning,Car,21,7.0,71,So far
+1230.0,Clear,Low,Evening,Bike,18,6.0,21,Very close
+4830.0,Clear,Low,Evening,Bike,11,1.0,29,Very close
+1510.0,Clear,High,Afternoon,Bike,14,2.0,32,Very close
+1620.0,Windy,Low,Evening,Bike,9,8.0,16,Very close
+11310.0,Clear,High,Evening,Bike,20,0.0,67,Far
+6050.0,Clear,Medium,Morning,Car,24,0.0,48,Close
+10140.0,Clear,Medium,Morning,Scooter,20,1.0,59,Far
+9450.0,Clear,Low,Afternoon,Car,13,0.0,49,Close
+6800.0,Clear,High,Evening,Bike,28,5.0,55,Close
+15650.0,Clear,Low,Afternoon,Bike,27,0.0,76,So far
+2260.0,Clear,Medium,Morning,Scooter,6,3.0,19,Very close
+12050.0,Clear,Low,Evening,Scooter,29,4.0,61,Far
+8250.0,Windy,Medium,Evening,Car,24,4.0,62,Close
+12850.0,Rainy,Medium,Afternoon,Scooter,23,0.0,80,Far
+15140.0,Windy,Medium,Morning,Bike,15,4.0,71,So far
+4590.0,Foggy,Low,Evening,Scooter,19,8.0,36,Very close
+12020.0,Clear,Low,Afternoon,Bike,26,0.0,63,Far
+19800.0,Clear,High,Evening,Bike,7,3.0,88,So far
+19270.0,Foggy,High,Afternoon,Bike,14,6.0,92,So far
+4920.0,Clear,High,Morning,Scooter,12,0.0,41,Very close
+1630.0,Rainy,Medium,Night,Bike,24,5.0,38,Very close
+18040.0,Clear,Medium,Morning,Bike,8,5.0,71,So far
+19400.0,Snowy,Medium,Afternoon,Scooter,23,9.0,92,So far
+16400.0,Clear,High,Morning,Scooter,12,2.0,70,So far
+12010.0,Clear,Low,Morning,Car,5,7.0,42,Far
+18460.0,Clear,Medium,Morning,Scooter,29,1.0,153,So far
+13090.0,Windy,Low,Morning,Scooter,17,1.0,69,Far
+1220.0,Foggy,High,Afternoon,Scooter,14,2.0,38,Very close
+10360.0,Rainy,Medium,Afternoon,Bike,7,8.0,39,Far
+4310.0,Rainy,Medium,Afternoon,Bike,9,2.0,35,Very close
+13320.0,Windy,Medium,Afternoon,Bike,26,0.0,71,Far
+16100.000000000002,Clear,Low,Morning,Car,16,6.0,61,So far
+14110.0,Rainy,High,Morning,Scooter,24,3.0,93,Far
+2840.0,Clear,Medium,Night,Scooter,28,1.0,44,Very close
+16090.0,Snowy,Low,Morning,Car,13,6.0,69,So far
+16050.0,Snowy,Medium,Evening,Bike,11,2.0,89,So far
+13370.0,Windy,High,Afternoon,Scooter,17,8.0,63,Far
+10160.0,Snowy,Medium,Night,Bike,10,1.0,67,Far
+6130.0,Clear,Medium,Night,Scooter,22,0.0,48,Close
+4960.0,Rainy,Low,Afternoon,Car,10,7.0,28,Very close
+3000.0,Clear,Low,Morning,Scooter,29,1.0,43,Very close
+2230.0,Snowy,Medium,Evening,Car,14,0.0,41,Very close
+17960.0,Clear,Medium,Evening,Scooter,26,0.0,74,So far
+7800.0,Rainy,Medium,Morning,Bike,11,7.0,49,Close
+10900.0,Clear,High,Afternoon,Scooter,6,8.0,47,Far
+3170.0,Clear,Low,Afternoon,Bike,17,1.0,28,Very close
+9390.0,Windy,Medium,Morning,Scooter,21,9.0,50,Close
+17440.0,Clear,Low,Evening,Bike,25,9.0,89,So far
+3020.0,Rainy,Medium,Morning,Bike,23,1.0,46,Very close
+19990.0,Rainy,High,Evening,Bike,17,1.0,112,So far
+16219.999999999998,Rainy,High,Evening,Bike,22,0.0,102,So far
+2740.0,Clear,High,Afternoon,Bike,18,9.0,37,Very close
+5740.0,Rainy,High,Evening,Bike,13,9.0,46,Close
+9750.0,Clear,Low,Afternoon,Bike,22,7.0,50,Close
+15620.0,Rainy,Medium,Afternoon,Scooter,23,7.0,78,So far
+16540.0,Rainy,Medium,Afternoon,Bike,25,7.0,77,So far
+7840.0,Rainy,Low,Morning,Scooter,7,8.0,36,Close
+17440.0,Clear,Low,Night,Car,23,0.0,85,So far
+11080.0,Windy,High,Afternoon,Bike,16,6.0,70,Far
+17610.0,Clear,Medium,Evening,Scooter,21,9.0,79,So far
+8280.0,Snowy,Low,Evening,Car,29,7.0,58,Close
+15320.0,Clear,Medium,Morning,Bike,17,6.0,80,So far
+3830.0,Rainy,Low,Evening,Car,27,3.0,49,Very close
+3250.0,Rainy,Medium,Evening,Scooter,29,0.0,51,Very close
+19750.0,Clear,Medium,Morning,Bike,25,1.0,103,So far
+15190.0,Foggy,Low,Evening,Scooter,6,4.0,53,So far
+8920.0,Windy,Medium,Morning,Bike,25,4.0,62,Close
+18630.0,Windy,Low,Afternoon,Bike,11,5.0,85,So far
+12740.0,Clear,Low,Night,Scooter,18,0.0,67,Far
+18130.0,Rainy,High,Evening,Bike,21,2.0,88,So far
+2470.0,Rainy,Low,Afternoon,Car,22,6.0,34,Very close
+18150.0,Windy,Medium,Morning,Bike,11,2.0,89,So far
+1740.0,Foggy,High,Afternoon,Scooter,8,9.0,28,Very close
+5790.0,Windy,Medium,Morning,Bike,26,6.0,49,Close
+5750.0,Windy,High,Morning,Scooter,7,4.0,37,Close
+17410.0,Snowy,Medium,Evening,Bike,20,4.0,80,So far
+1200.0,Rainy,Low,Morning,Scooter,24,7.0,33,Very close
+8070.0,Windy,Low,Evening,Bike,21,4.0,48,Close
+1880.0,Clear,Medium,Morning,Scooter,24,7.0,35,Very close
+720.0,Rainy,Medium,Afternoon,Scooter,9,2.0,23,Very close
+14190.0,Clear,Medium,Afternoon,Bike,9,1.0,57,Far
+16730.0,Windy,High,Afternoon,Scooter,9,7.0,71,So far
+18530.0,Rainy,Low,Afternoon,Scooter,8,8.0,57,So far
+4320.0,Clear,Low,Morning,Bike,21,9.0,34,Very close
+13600.0,Foggy,High,Evening,Bike,9,7.0,61,Far
+18460.0,Rainy,Low,Morning,Bike,19,9.0,94,So far
+7670.0,Windy,Low,Morning,Car,9,2.0,31,Close
+8230.0,Snowy,Low,Evening,Bike,17,3.0,56,Close
+13440.0,Clear,Low,Night,Bike,29,0.0,63,Far
+15040.0,Clear,Low,Morning,Car,24,5.0,60,So far
+7480.0,Clear,Medium,Morning,Car,21,4.0,52,Close
+10110.0,Rainy,Medium,Afternoon,Scooter,23,2.0,63,Far
+10880.0,Snowy,Low,Afternoon,Car,13,3.0,52,Far
+13970.0,Snowy,Low,Evening,Scooter,14,8.0,52,Far
+3480.0,Foggy,Low,Afternoon,Scooter,9,1.0,31,Very close
+10730.0,Foggy,Low,Morning,Bike,6,6.0,35,Far
+5180.0,Clear,Medium,Afternoon,Car,9,2.0,30,Close
+8470.0,Foggy,Medium,Evening,Bike,24,0.0,68,Close
+15640.0,Rainy,Low,Morning,Bike,20,4.0,141,So far
+10950.0,Snowy,Medium,Afternoon,Bike,9,1.0,65,Far
+19290.0,Windy,Medium,Evening,Scooter,7,8.0,84,So far
+2590.0,Windy,Medium,Morning,Bike,13,5.0,28,Very close
+3980.0,Clear,High,Night,Car,19,3.0,41,Very close
+6060.0,Foggy,Low,Afternoon,Scooter,10,8.0,41,Close
+6720.0,Foggy,Low,Evening,Bike,8,5.0,31,Close
+19040.0,Clear,Medium,Morning,Scooter,27,2.0,85,So far
+14280.0,Windy,High,Afternoon,Scooter,23,5.0,77,Far
+16260.000000000002,Rainy,High,Morning,Bike,16,6.0,70,So far
+4250.0,Clear,Low,Afternoon,Bike,5,4.0,22,Very close
+12260.0,Clear,Low,Afternoon,Bike,20,2.0,66,Far
+19810.0,Clear,Low,Afternoon,Bike,27,1.0,74,So far
+18200.0,Windy,Medium,Morning,Bike,27,1.0,108,So far
+12850.0,Rainy,Medium,Morning,Scooter,14,8.0,73,Far
+6910.0,Clear,Low,Evening,Bike,27,8.0,91,Close
+9640.0,Clear,Low,Morning,Bike,10,5.0,46,Close
+9640.0,Rainy,Medium,Evening,Bike,14,6.0,52,Close
+2280.0,Foggy,Medium,Morning,Scooter,27,6.0,44,Very close
+15340.0,Rainy,Low,Afternoon,Bike,18,6.0,54,So far
+3220.0,Rainy,Medium,Night,Bike,14,8.0,34,Very close
+9710.0,Clear,Low,Morning,Bike,8,1.0,49,Close
+17180.0,Clear,Medium,Night,Scooter,13,1.0,62,So far
+5300.0,Clear,Medium,Afternoon,Scooter,29,3.0,47,Close
+10000.0,Clear,Medium,Afternoon,Scooter,6,9.0,47,Close
+10750.0,Rainy,Medium,Morning,Bike,8,6.0,60,Far
+9490.0,Rainy,Medium,Morning,Car,23,6.0,53,Close
+7240.0,Clear,Medium,Afternoon,Bike,28,7.0,57,Close
+16090.0,Rainy,Low,Morning,Bike,21,8.0,66,So far
+15530.0,Clear,Low,Morning,Bike,26,6.0,83,So far
+19410.0,Windy,Low,Morning,Bike,11,8.0,62,So far
+17240.0,Clear,Low,Evening,Bike,17,5.0,69,So far
+11330.0,Clear,Low,Morning,Bike,25,3.0,60,Far
+18230.0,Rainy,Low,Afternoon,Scooter,27,9.0,86,So far
+1170.0,Clear,Medium,Morning,Bike,16,9.0,25,Very close
+5330.0,Clear,Low,Evening,Car,29,1.0,51,Close
+4140.0,Rainy,Low,Morning,Bike,23,2.0,41,Very close
+2020.0,Clear,High,Evening,Bike,28,5.0,44,Very close
+14460.0,Rainy,Medium,Morning,Scooter,11,9.0,68,Far
+3860.0,Clear,Medium,Afternoon,Bike,21,8.0,34,Very close
+12590.0,Windy,Medium,Morning,Bike,13,9.0,62,Far
+1110.0,Clear,High,Morning,Scooter,22,8.0,35,Very close
+9110.0,Clear,Low,Afternoon,Bike,19,6.0,42,Close
+18770.0,Snowy,Medium,Evening,Bike,24,0.0,115,So far
+16350.000000000002,Foggy,Medium,Night,Bike,16,6.0,67,So far
+6220.0,Clear,Low,Afternoon,Bike,16,9.0,29,Close
+7780.0,Foggy,High,Afternoon,Bike,25,3.0,74,Close
+880.0,Rainy,Low,Night,Car,27,2.0,37,Very close
+16430.0,Clear,Low,Evening,Bike,13,5.0,56,So far
+8039.999999999999,Clear,Medium,Evening,Car,27,0.0,65,Close
+18650.0,Foggy,Low,Night,Car,19,2.0,68,So far
+5730.0,Foggy,Low,Morning,Scooter,7,2.0,30,Close
+12420.0,Rainy,Low,Evening,Bike,28,9.0,79,Far
+2110.0,Clear,Low,Afternoon,Scooter,28,5.0,34,Very close
+18620.0,Clear,Low,Evening,Scooter,27,6.0,75,So far
+17610.0,Clear,Medium,Morning,Scooter,19,3.0,80,So far
+10620.0,Rainy,Medium,Night,Bike,7,2.0,48,Far
+18830.0,Clear,Medium,Night,Bike,8,0.0,68,So far
+14070.0,Clear,Medium,Morning,Bike,16,9.0,73,Far
+9290.0,Clear,Medium,Evening,Bike,10,9.0,40,Close
+1290.0,Rainy,Low,Evening,Bike,7,7.0,15,Very close
+4080.0,Windy,Medium,Afternoon,Bike,7,0.0,33,Very close
+19120.0,Windy,High,Evening,Car,8,0.0,92,So far
+17930.0,Clear,Medium,Afternoon,Bike,29,4.0,85,So far
+2330.0,Clear,Low,Morning,Car,6,1.0,17,Very close
+3180.0,Rainy,Medium,Evening,Bike,21,3.0,42,Very close
+1970.0,Clear,High,Morning,Car,28,7.0,43,Very close
+6200.0,Windy,High,Evening,Scooter,7,3.0,42,Close
+1020.0,Windy,High,Evening,Bike,6,8.0,21,Very close
+5300.0,Clear,Low,Evening,Bike,16,5.0,32,Close
+9340.0,Rainy,Low,Evening,Car,10,0.0,40,Close
+10090.0,Clear,Medium,Evening,Bike,7,0.0,49,Far
+15350.0,Rainy,High,Night,Scooter,23,9.0,80,So far
+17120.0,Rainy,Low,Morning,Bike,26,3.0,86,So far
+3940.0,Snowy,Low,Afternoon,Bike,19,3.0,43,Very close
+18020.0,Clear,Medium,Evening,Car,12,3.0,77,So far
+14410.0,Snowy,Medium,Evening,Bike,8,8.0,75,Far
+11440.0,Rainy,Medium,Evening,Car,20,2.0,57,Far
+15230.0,Foggy,Low,Morning,Car,6,0.0,52,So far
+1950.0,Clear,Low,Morning,Scooter,16,2.0,23,Very close
+7720.0,Rainy,Medium,Morning,Bike,11,4.579381443298969,36,Close
+11780.0,Clear,Low,Afternoon,Scooter,26,3.0,71,Far
+3400.0,Windy,Medium,Morning,Bike,11,6.0,30,Very close
+2140.0,Clear,High,Evening,Bike,18,3.0,34,Very close
+10040.0,Rainy,High,Afternoon,Bike,12,9.0,59,Far
+14720.0,Clear,Medium,Evening,Scooter,15,8.0,80,Far
+3700.0,Clear,Medium,Morning,Bike,28,7.0,45,Very close
+19730.0,Rainy,Low,Evening,Bike,8,8.0,64,So far
+10830.0,Clear,Medium,Evening,Scooter,8,9.0,51,Far
+16300.0,Foggy,Low,Morning,Car,12,1.0,100,So far
+5980.0,Foggy,High,Morning,Bike,14,6.0,44,Close
+5980.0,Rainy,High,Morning,Bike,21,2.0,60,Close
+4140.0,Foggy,Medium,Morning,Bike,21,0.0,46,Very close
+16680.0,Clear,Medium,Afternoon,Bike,9,9.0,63,So far
+18690.0,Windy,Medium,Night,Bike,23,9.0,74,So far
+18440.0,Rainy,High,Morning,Bike,27,7.0,80,So far
+13000.0,Windy,High,Morning,Bike,22,8.0,65,Far
+16450.0,Clear,Medium,Evening,Scooter,25,3.0,87,So far
+16170.000000000002,Clear,Medium,Evening,Car,10,2.0,116,So far
+17880.0,Clear,Medium,Evening,Bike,29,3.0,98,So far
+5230.0,Clear,Medium,Morning,Scooter,19,4.0,37,Close
+4320.0,Clear,Medium,Morning,Bike,17,4.0,36,Very close
+9090.0,Rainy,Medium,Morning,Bike,6,7.0,43,Close
+12670.0,Windy,Medium,Morning,Scooter,7,3.0,43,Far
+1850.0,Clear,Medium,Evening,Bike,10,1.0,24,Very close
+7510.0,Rainy,Low,Evening,Car,27,6.0,50,Close
+6580.0,Clear,Low,Afternoon,Bike,13,1.0,34,Close
+12700.0,Clear,Low,Morning,Scooter,22,2.0,57,Far
+7310.0,Foggy,Medium,Afternoon,Bike,26,2.0,65,Close
+9200.0,Clear,High,Morning,Scooter,9,9.0,48,Close
+10220.0,Foggy,Low,Afternoon,Scooter,21,0.0,61,Far
+8150.0,Clear,High,Evening,Scooter,12,9.0,43,Close
+10610.0,Clear,Medium,Morning,Bike,17,0.0,59,Far
+7730.0,Clear,High,Night,Bike,29,5.0,58,Close
+19660.0,Clear,Low,Morning,Car,19,6.0,70,So far
+14660.0,Snowy,High,Morning,Car,5,6.0,71,Far
+9730.0,Clear,Low,Afternoon,Bike,29,6.0,60,Close
+14520.0,Clear,Medium,Afternoon,Car,26,5.0,86,Far
+5930.0,Foggy,High,Morning,Scooter,27,1.0,106,Close
+4940.0,Rainy,High,Evening,Scooter,28,4.0,63,Very close
+11880.0,Rainy,High,Afternoon,Car,29,9.0,78,Far
+19410.0,Foggy,Medium,Morning,Car,7,6.0,66,So far
+3680.0,Clear,High,Afternoon,Car,16,6.0,47,Very close
+11060.0,Clear,High,Evening,Bike,6,9.0,53,Far
+10200.0,Rainy,Medium,Afternoon,Bike,18,9.0,56,Far
+740.0,Rainy,Low,Morning,Car,13,4.0,21,Very close
+15210.0,Snowy,Medium,Afternoon,Bike,20,9.0,90,So far
+7690.0,Rainy,High,Morning,Scooter,16,3.0,58,Close
+11210.0,Clear,High,Afternoon,Scooter,23,1.0,76,Far
+6180.0,Clear,Medium,Evening,Bike,9,9.0,35,Close
+2710.0,Clear,Medium,Morning,Car,6,5.0,19,Very close
+3490.0,Clear,Medium,Morning,Bike,17,2.0,38,Very close
+9290.0,Clear,Medium,Morning,Bike,17,2.0,49,Close
+710.0,Foggy,Low,Night,Bike,29,1.0,41,Very close
+5320.0,Rainy,Low,Afternoon,Scooter,27,2.0,48,Close
+4100.0,Clear,Medium,Evening,Car,18,3.0,38,Very close
+13840.0,Clear,Low,Morning,Scooter,18,4.579381443298969,64,Far
+3900.0,Rainy,High,Morning,Car,25,9.0,54,Very close
+18600.0,Rainy,Medium,Morning,Car,28,9.0,77,So far
+14880.0,Snowy,Medium,Evening,Bike,10,0.0,64,Far
+3630.0,Windy,Medium,Morning,Car,22,9.0,39,Very close
+3220.0,Windy,High,Morning,Car,7,7.0,27,Very close
+11510.0,Foggy,Low,Afternoon,Car,5,7.0,57,Far
+19720.0,Rainy,Low,Afternoon,Bike,27,6.0,109,So far
+11080.0,Clear,Low,Evening,Scooter,28,2.0,58,Far
+3950.0,Clear,Medium,Morning,Car,28,5.0,47,Very close
+7290.0,Clear,High,Evening,Car,11,7.0,48,Close
+10300.0,Clear,Low,Morning,Car,12,7.0,41,Far
+10730.0,Rainy,High,Afternoon,Car,27,6.0,83,Far
+17280.0,Clear,Low,Morning,Car,28,3.0,72,So far
+13370.0,Foggy,Medium,Evening,Scooter,16,9.0,71,Far
+11360.0,Clear,Medium,Morning,Scooter,8,2.0,52,Far
+7580.0,Clear,High,Afternoon,Scooter,19,9.0,57,Close
+6130.0,Rainy,High,Morning,Bike,25,6.0,59,Close
+2320.0,Clear,Low,Afternoon,Scooter,23,1.0,32,Very close
+17490.0,Rainy,Low,Evening,Bike,27,9.0,97,So far
+1690.0,Windy,Medium,Afternoon,Car,11,7.0,20,Very close
+4520.0,Clear,Low,Evening,Car,17,0.0,71,Very close
+7150.0,Windy,Low,Morning,Bike,15,3.0,42,Close
+10860.0,Windy,Medium,Morning,Car,10,4.0,60,Far
+15880.0,Rainy,Low,Evening,Car,17,1.0,68,So far
+9700.0,Snowy,Low,Evening,Bike,6,4.579381443298969,45,Close
+14950.0,Clear,Medium,Morning,Bike,13,7.0,49,Far
+11360.0,Foggy,Low,Afternoon,Bike,6,4.0,47,Far
+12140.0,Foggy,High,Afternoon,Bike,12,0.0,65,Far
+16309.999999999998,Foggy,Medium,Afternoon,Car,14,7.0,71,So far
+14700.0,Clear,Medium,Evening,Scooter,24,5.0,75,Far
+13420.0,Rainy,Medium,Evening,Bike,6,6.0,105,Far
+7900.0,Clear,Low,Afternoon,Scooter,22,4.579381443298969,48,Close
+15350.0,Foggy,Low,Morning,Car,5,3.0,56,So far
+15120.0,Foggy,Low,Morning,Bike,14,1.0,58,So far
+820.0,Windy,Low,Morning,Car,18,9.0,23,Very close
+6430.0,Clear,Low,Evening,Car,9,7.0,26,Close
+8660.0,Snowy,High,Morning,Bike,29,3.0,77,Close
+11160.0,Foggy,Medium,Afternoon,Car,21,4.0,77,Far
+18770.0,Foggy,Low,Afternoon,Car,15,4.579381443298969,71,So far
+5840.0,Clear,Medium,Evening,Bike,21,7.0,35,Close
+1010.0,Clear,High,Night,Bike,17,7.0,29,Very close
+3920.0,Rainy,Medium,Night,Bike,20,9.0,41,Very close
+12770.0,Foggy,Low,Morning,Bike,22,8.0,71,Far
+2330.0,Clear,Low,Evening,Bike,9,2.0,18,Very close
+2920.0,Windy,High,Afternoon,Bike,24,4.0,48,Very close
+13350.0,Rainy,Low,Evening,Scooter,14,4.0,91,Far
+5260.0,Rainy,Medium,Evening,Scooter,28,8.0,51,Close
+4390.0,Foggy,Medium,Night,Bike,12,8.0,38,Very close
+8670.0,Windy,High,Morning,Bike,20,4.0,55,Close
+16530.0,Snowy,Low,Afternoon,Scooter,24,9.0,99,So far
+13470.0,Clear,Medium,Evening,Bike,19,4.0,59,Far
+18860.0,Snowy,Medium,Night,Bike,18,1.0,89,So far
+12810.0,Clear,Low,Morning,Bike,12,2.0,51,Far
+2400.0,Snowy,Low,Night,Scooter,27,5.0,42,Very close
+7440.0,Rainy,Medium,Evening,Bike,6,1.0,39,Close
+1890.0,Clear,Medium,Evening,Scooter,13,7.0,22,Very close
+19280.0,Snowy,Medium,Morning,Car,21,3.0,101,So far
+6290.0,Clear,Medium,Morning,Scooter,10,7.0,27,Close
+1810.0,Clear,Medium,Afternoon,Car,23,3.0,34,Very close
+1740.0,Clear,Medium,Night,Bike,23,2.0,34,Very close
+13440.0,Clear,Medium,Morning,Car,22,1.0,79,Far
+7110.0,Clear,Low,Afternoon,Scooter,27,4.579381443298969,48,Close
+4500.0,Windy,Low,Evening,Scooter,20,6.0,32,Very close
+8310.0,Windy,Medium,Morning,Bike,6,5.0,44,Close
+16370.000000000002,Clear,High,Morning,Bike,26,7.0,97,So far
+9780.0,Clear,Medium,Afternoon,Bike,18,3.0,58,Close
+4880.0,Windy,Medium,Afternoon,Scooter,26,7.0,48,Very close
+5540.0,Rainy,Medium,Morning,Scooter,28,9.0,51,Close
+11540.0,Clear,High,Afternoon,Car,10,0.0,56,Far
+12850.0,Clear,Low,Afternoon,Scooter,5,4.579381443298969,54,Far
+5560.0,Clear,Low,Afternoon,Scooter,19,5.0,31,Close
+3330.0,Clear,Medium,Evening,Scooter,24,2.0,44,Very close
+3470.0,Snowy,High,Night,Bike,24,9.0,53,Very close
+12010.0,Clear,Low,Morning,Scooter,26,6.0,57,Far
+15980.0,Foggy,Low,Morning,Car,21,6.0,90,So far
+3640.0,Clear,Low,Morning,Scooter,16,3.0,26,Very close
+19470.0,Clear,Low,Morning,Bike,16,8.0,83,So far
+15510.0,Rainy,Medium,Morning,Scooter,10,8.0,81,So far
+10420.0,Windy,Medium,Afternoon,Bike,28,3.0,72,Far
+15900.0,Rainy,Low,Evening,Car,19,5.0,78,So far
+15170.0,Windy,Low,Morning,Bike,25,4.0,77,So far
+2780.0,Rainy,Low,Morning,Bike,21,4.0,37,Very close
+1980.0,Rainy,Low,Afternoon,Bike,22,0.0,39,Very close
+14030.0,Clear,Low,Afternoon,Bike,17,2.0,65,Far
+2060.0,Foggy,Medium,Evening,Scooter,22,4.0,40,Very close
+11020.0,Clear,High,Morning,Scooter,22,2.0,70,Far
+17950.0,Snowy,High,Morning,Scooter,16,4.579381443298969,96,So far
+5170.0,Foggy,Low,Morning,Bike,29,0.0,56,Close
+16620.0,Snowy,Low,Afternoon,Bike,26,8.0,94,So far
+710.0,Rainy,Low,Morning,Car,25,8.0,31,Very close
+13440.0,Clear,Medium,Evening,Scooter,9,5.0,55,Far
+13100.0,Clear,Low,Evening,Bike,28,2.0,72,Far
+19240.0,Rainy,High,Afternoon,Bike,9,7.0,75,So far
+5350.0,Clear,Medium,Afternoon,Scooter,24,6.0,43,Close
+12220.0,Clear,Low,Evening,Scooter,15,0.0,56,Far
+18550.0,Clear,Low,Afternoon,Car,11,9.0,69,So far
+6440.0,Clear,Low,Afternoon,Car,18,2.0,43,Close
+8770.0,Foggy,Medium,Evening,Car,14,7.0,49,Close
+10970.0,Clear,Low,Afternoon,Scooter,27,3.0,51,Far
+6680.0,Clear,High,Morning,Scooter,10,5.0,44,Close
+12930.0,Rainy,Low,Afternoon,Scooter,25,0.0,61,Far
+7990.0,Clear,Medium,Evening,Bike,18,4.0,42,Close
+15780.0,Clear,High,Afternoon,Scooter,12,1.0,68,So far
+9950.0,Windy,High,Evening,Scooter,21,5.0,72,Close
+13470.0,Rainy,Low,Afternoon,Scooter,7,6.0,46,Far
+17190.0,Clear,Medium,Afternoon,Bike,11,8.0,76,So far
+3230.0,Clear,High,Afternoon,Bike,17,9.0,33,Very close
+1270.0,Foggy,High,Afternoon,Bike,25,9.0,46,Very close
+4710.0,Clear,Low,Morning,Bike,20,6.0,31,Very close
+12820.0,Rainy,Medium,Evening,Bike,28,9.0,72,Far
+18210.0,Clear,Low,Evening,Bike,6,3.0,74,So far
+9510.0,Clear,High,Morning,Bike,26,9.0,63,Close
+890.0,Rainy,Low,Morning,Car,9,0.0,20,Very close
+5240.0,Windy,High,Afternoon,Scooter,26,8.0,51,Close
+10640.0,Windy,Low,Evening,Car,11,9.0,36,Far
+13230.0,Clear,Medium,Night,Bike,20,8.0,70,Far
+19030.0,Clear,Medium,Morning,Scooter,8,8.0,65,So far
+10300.0,Rainy,Low,Evening,Bike,29,0.0,73,Far
+12390.0,Snowy,Medium,Evening,Bike,14,8.0,56,Far
+18800.0,Clear,High,Afternoon,Bike,23,7.0,95,So far
+16780.0,Rainy,Medium,Morning,Bike,22,1.0,70,So far
+7850.0,Clear,Low,Afternoon,Scooter,7,9.0,34,Close
+11630.0,Clear,Medium,Night,Scooter,29,7.0,57,Far
+7800.0,Windy,Medium,Afternoon,Car,17,6.0,44,Close
+11880.0,Rainy,Medium,Afternoon,Bike,5,1.0,63,Far
+14890.0,Clear,High,Evening,Car,22,9.0,88,Far
+16440.0,Rainy,High,Afternoon,Bike,12,4.579381443298969,86,So far
+2650.0,Clear,Medium,Afternoon,Car,14,4.0,35,Very close
+18010.0,Foggy,High,Night,Bike,14,2.0,71,So far
+10320.0,Clear,Medium,Night,Car,24,5.0,49,Far
+6370.0,Rainy,Low,Afternoon,Car,29,4.0,56,Close
+3740.0,Rainy,Low,Morning,Bike,19,6.0,36,Very close
+17990.0,Windy,High,Evening,Bike,5,1.0,73,So far
+13960.0,Rainy,Low,Night,Bike,5,1.0,42,Far
+16020.0,Clear,Low,Evening,Bike,20,7.0,61,So far
+7520.0,Clear,Medium,Afternoon,Car,17,9.0,44,Close
+2510.0,Clear,Low,Morning,Bike,16,2.0,28,Very close
+6700.0,Foggy,High,Morning,Scooter,23,3.0,59,Close
+17610.0,Windy,Low,Morning,Bike,5,8.0,61,So far
+3650.0,Clear,Medium,Morning,Bike,29,9.0,46,Very close
+14270.0,Clear,Medium,Night,Car,24,3.0,77,Far
+8850.0,Clear,Low,Afternoon,Bike,11,9.0,45,Close
+9240.0,Windy,Medium,Afternoon,Bike,8,2.0,49,Close
+19700.0,Rainy,Low,Evening,Car,16,6.0,66,So far
+11610.0,Clear,High,Morning,Car,19,1.0,67,Far
+16440.0,Windy,High,Afternoon,Car,8,0.0,80,So far
+8670.0,Rainy,High,Afternoon,Bike,12,7.0,104,Close
+5140.0,Clear,Medium,Evening,Scooter,23,7.0,43,Close
+10460.0,Clear,Medium,Evening,Bike,25,3.0,68,Far
+5230.0,Clear,Medium,Morning,Scooter,23,2.0,47,Close
+10350.0,Clear,Medium,Night,Bike,7,9.0,48,Far
+4040.0,Rainy,High,Evening,Bike,14,6.0,39,Very close
+2660.0,Clear,Low,Afternoon,Bike,16,8.0,21,Very close
+17610.0,Foggy,Medium,Afternoon,Bike,9,5.0,74,So far
+8480.0,Clear,High,Night,Bike,11,5.0,39,Close
+17060.0,Clear,Low,Evening,Bike,9,9.0,66,So far
+6780.0,Foggy,Low,Night,Bike,18,6.0,42,Close
+9000.0,Snowy,Medium,Afternoon,Car,29,3.0,78,Close
+12740.0,Clear,Low,Afternoon,Scooter,12,0.0,63,Far
+18720.0,Rainy,Medium,Afternoon,Bike,17,0.0,89,So far
+3230.0,Clear,Low,Morning,Bike,7,7.0,14,Very close
+12560.0,Clear,Low,Morning,Car,22,8.0,49,Far
+1000.0,Snowy,Medium,Morning,Bike,28,0.0,51,Very close
+3460.0,Clear,Low,Morning,Bike,24,6.0,37,Very close
+6000.0,Snowy,Low,Morning,Car,20,8.0,53,Close
+14790.0,Clear,Medium,Morning,Scooter,12,9.0,64,Far
+14650.0,Snowy,High,Morning,Car,19,3.0,95,Far
+14200.0,Clear,Medium,Afternoon,Bike,17,1.0,73,Far
+7040.0,Clear,Low,Afternoon,Bike,11,8.0,38,Close
+19740.0,Clear,Medium,Afternoon,Car,16,1.0,98,So far
+11880.0,Rainy,Medium,Evening,Bike,20,8.0,69,Far
+18630.0,Clear,Low,Evening,Bike,26,8.0,75,So far
+8800.0,Rainy,Medium,Afternoon,Bike,6,2.0,38,Close
+11750.0,Clear,High,Morning,Bike,9,2.0,55,Far
+18950.0,Snowy,Low,Morning,Car,27,0.0,92,So far
+7600.0,Foggy,Low,Morning,Bike,16,4.0,48,Close
+17990.0,Foggy,Low,Morning,Car,11,2.0,84,So far
+13820.0,Clear,Medium,Evening,Bike,21,9.0,72,Far
+15530.0,Foggy,Low,Evening,Bike,26,7.0,68,So far
+3970.0,Clear,High,Afternoon,Bike,19,8.0,40,Very close
+10100.0,Clear,High,Morning,Car,17,6.0,55,Far
+18210.0,Foggy,Low,Morning,Bike,5,1.0,70,So far
+2680.0,Clear,Low,Morning,Bike,16,8.0,25,Very close
+3880.0,Snowy,Low,Morning,Bike,9,6.0,33,Very close
+15890.0,Snowy,Medium,Afternoon,Car,15,9.0,91,So far
+6730.0,Clear,Medium,Afternoon,Bike,21,1.0,54,Close
+750.0,Clear,Medium,Afternoon,Bike,10,5.0,16,Very close
+13790.0,Rainy,Low,Night,Scooter,11,0.0,69,Far
+18830.0,Clear,Medium,Evening,Scooter,5,8.0,69,So far
+11620.0,Clear,Low,Afternoon,Bike,9,8.0,33,Far
+5030.0,Clear,Medium,Morning,Bike,17,4.579381443298969,38,Close
+15080.0,Rainy,Medium,Evening,Scooter,26,1.0,94,So far
+10480.0,Rainy,Low,Afternoon,Car,10,7.0,45,Far
+7820.0,Rainy,Medium,Evening,Bike,16,8.0,45,Close
+16980.0,Clear,Low,Morning,Bike,11,6.0,78,So far
+14830.0,Rainy,Low,Morning,Car,19,4.0,126,Far
+5670.0,Clear,Low,Morning,Scooter,11,9.0,27,Close
+18330.0,Snowy,Medium,Morning,Scooter,5,5.0,67,So far
+17460.0,Clear,Medium,Morning,Scooter,6,4.579381443298969,62,So far
+1340.0,Foggy,High,Evening,Bike,9,5.0,30,Very close
+1380.0,Clear,Low,Morning,Scooter,13,9.0,17,Very close
+3670.0,Clear,Low,Morning,Bike,9,0.0,26,Very close
+7860.0,Windy,Medium,Morning,Car,22,2.0,55,Close
+8980.0,Clear,Medium,Afternoon,Scooter,22,8.0,105,Close
+12850.0,Rainy,Medium,Evening,Scooter,6,7.0,61,Far
+17910.0,Clear,Low,Afternoon,Bike,6,7.0,68,So far
+15090.0,Snowy,Low,Morning,Car,20,7.0,68,So far
+4220.0,Clear,Medium,Morning,Bike,16,7.0,35,Very close
+12330.0,Clear,High,Night,Bike,7,2.0,101,Far
+17870.0,Snowy,Low,Morning,Scooter,29,4.0,87,So far
+2160.0,Clear,Medium,Night,Car,10,1.0,23,Very close
+3110.0,Rainy,Medium,Morning,Scooter,21,1.0,43,Very close
+1420.0,Clear,High,Afternoon,Scooter,24,2.0,40,Very close
+18570.0,Rainy,Medium,Afternoon,Bike,16,7.0,89,So far
+17510.0,Clear,Medium,Evening,Bike,15,3.0,60,So far
+6840.0,Clear,Medium,Evening,Bike,25,1.0,51,Close
+18340.0,Snowy,Medium,Afternoon,Scooter,22,4.579381443298969,91,So far
+3510.0,Windy,Medium,Night,Bike,22,2.0,44,Very close
+14700.0,Clear,Medium,Morning,Scooter,6,2.0,58,Far
+16850.0,Clear,High,Morning,Car,17,4.0,71,So far
+16260.000000000002,Rainy,Low,Morning,Car,27,5.0,66,So far
+19100.0,Snowy,Medium,Morning,Bike,25,6.0,90,So far
+13710.0,Rainy,Medium,Evening,Bike,22,9.0,64,Far
+8920.0,Clear,Medium,Morning,Bike,10,1.0,51,Close
+14580.0,Clear,Low,Evening,Bike,23,0.0,70,Far
+9710.0,Clear,Low,Afternoon,Car,27,5.0,61,Close
+19940.0,Clear,Low,Afternoon,Bike,26,6.0,83,So far
+4530.0,Snowy,Medium,Morning,Scooter,18,4.0,49,Very close
+10700.0,Clear,High,Afternoon,Car,8,4.0,57,Far
+10130.0,Clear,Medium,Evening,Bike,22,0.0,65,Far
+780.0,Clear,Low,Afternoon,Bike,11,0.0,18,Very close
+18840.0,Foggy,Medium,Afternoon,Scooter,25,8.0,88,So far
+15080.0,Snowy,Low,Evening,Bike,29,7.0,84,So far
+17320.0,Clear,Low,Evening,Scooter,10,3.0,77,So far
+6810.0,Clear,Medium,Evening,Bike,23,2.0,47,Close
+2790.0,Clear,High,Morning,Bike,23,7.0,38,Very close
+11440.0,Foggy,High,Afternoon,Car,14,4.0,74,Far
+2440.0,Snowy,High,Evening,Bike,13,9.0,39,Very close
+2480.0,Rainy,Low,Evening,Scooter,20,8.0,30,Very close
+7750.0,Clear,Medium,Evening,Scooter,21,1.0,55,Close
+850.0,Clear,Medium,Morning,Bike,9,8.0,17,Very close
+8870.0,Clear,Low,Evening,Bike,19,3.0,55,Close
+15370.0,Snowy,Medium,Afternoon,Car,15,5.0,66,So far
+10290.0,Foggy,Medium,Evening,Scooter,25,4.0,67,Far
+15060.0,Rainy,Low,Morning,Bike,22,4.0,65,So far
+3540.0,Foggy,Low,Morning,Bike,23,7.0,37,Very close
+7170.0,Clear,Medium,Morning,Scooter,7,9.0,29,Close
+4620.0,Rainy,Medium,Afternoon,Car,8,3.0,33,Very close
+5530.0,Clear,Low,Morning,Car,10,8.0,27,Close
+12740.0,Rainy,Low,Afternoon,Bike,17,9.0,63,Far
+9060.0,Clear,High,Evening,Bike,26,3.0,61,Close
+2710.0,Foggy,Low,Morning,Bike,6,0.0,28,Very close
+16920.0,Clear,Low,Night,Bike,23,5.0,78,So far
+13540.0,Foggy,Low,Morning,Bike,11,1.0,54,Far
+1000.0,Snowy,Medium,Morning,Bike,25,4.0,44,Very close
+8770.0,Clear,Medium,Morning,Car,12,2.0,42,Close
+16010.000000000002,Windy,Low,Morning,Car,28,0.0,84,So far
+12630.0,Foggy,Medium,Night,Scooter,8,8.0,49,Far
+8090.0,Foggy,Low,Evening,Car,22,2.0,56,Close
+6540.0,Clear,Medium,Night,Bike,10,7.0,39,Close
+10640.0,Clear,Medium,Afternoon,Scooter,14,5.0,45,Far
+1770.0,Clear,Medium,Evening,Bike,14,9.0,22,Very close
+13000.0,Foggy,Low,Evening,Bike,25,7.0,77,Far
+12830.0,Clear,Low,Evening,Bike,5,8.0,50,Far
+13020.0,Snowy,High,Afternoon,Car,6,9.0,65,Far
+18890.0,Rainy,Medium,Morning,Scooter,22,1.0,74,So far
+10530.0,Foggy,High,Evening,Bike,25,8.0,72,Far
+5010.0,Rainy,Low,Afternoon,Bike,10,5.0,31,Close
+16000.0,Foggy,Medium,Afternoon,Scooter,13,3.0,65,So far
+17860.0,Clear,Low,Afternoon,Scooter,16,8.0,83,So far
+2990.0,Foggy,High,Afternoon,Bike,9,5.0,90,Very close
+16379.999999999998,Clear,Medium,Morning,Bike,6,2.0,51,So far
+6090.0,Clear,Medium,Night,Bike,7,4.0,27,Close
+13610.0,Clear,Low,Morning,Bike,26,0.0,66,Far
+8500.0,Snowy,High,Evening,Bike,14,7.0,56,Close
+8550.0,Clear,Low,Evening,Scooter,28,8.0,46,Close
+4050.0,Clear,Medium,Afternoon,Scooter,21,5.0,39,Very close
+19500.0,Clear,High,Morning,Bike,18,2.0,73,So far
+7590.0,Clear,Medium,Afternoon,Scooter,16,3.0,37,Close
+16660.0,Snowy,High,Afternoon,Scooter,29,7.0,95,So far
+19410.0,Snowy,High,Evening,Car,21,3.0,100,So far
+13740.0,Foggy,Medium,Afternoon,Bike,6,1.0,56,Far
+640.0,Clear,High,Night,Bike,10,3.0,24,Very close
+12100.0,Clear,High,Afternoon,Bike,11,0.0,53,Far
+12090.0,Clear,Medium,Morning,Car,13,1.0,60,Far
+11820.0,Windy,Medium,Night,Bike,24,7.0,77,Far
+5280.0,Foggy,Low,Morning,Bike,27,6.0,53,Close
+5980.0,Clear,Low,Evening,Car,22,9.0,35,Close
+2930.0,Clear,Medium,Morning,Bike,24,8.0,94,Very close
+4050.0,Snowy,Medium,Evening,Scooter,19,2.0,50,Very close
+13610.0,Clear,Low,Morning,Scooter,12,2.0,43,Far
+2880.0,Rainy,Medium,Morning,Car,16,4.0,41,Very close
+5910.0,Clear,Medium,Evening,Scooter,29,4.0,57,Close
+6000.0,Rainy,Medium,Evening,Scooter,21,2.0,47,Close
+11330.0,Clear,Medium,Afternoon,Scooter,29,7.0,77,Far
+15010.0,Clear,Medium,Morning,Bike,15,6.0,64,So far
+6850.0,Clear,High,Morning,Bike,16,5.0,48,Close
+11930.0,Snowy,High,Morning,Car,7,1.0,75,Far
+18820.0,Windy,Low,Morning,Car,5,3.0,77,So far
+1030.0,Clear,Medium,Afternoon,Bike,19,4.0,29,Very close
+14220.0,Rainy,Medium,Evening,Car,25,8.0,84,Far
+18180.0,Snowy,High,Morning,Bike,17,3.0,85,So far
+14750.0,Clear,Low,Morning,Car,10,7.0,62,Far
+11700.0,Rainy,Low,Afternoon,Bike,17,5.0,60,Far
+10680.0,Clear,Low,Morning,Bike,14,1.0,42,Far
+1510.0,Clear,High,Evening,Bike,26,1.0,44,Very close
+8010.0,Clear,High,Morning,Bike,8,6.0,48,Close
+3230.0,Rainy,Low,Morning,Car,25,7.0,42,Very close
+13160.0,Rainy,High,Morning,Scooter,25,8.0,68,Far
+10110.0,Windy,Low,Morning,Bike,11,4.0,44,Far
+18390.0,Windy,Low,Afternoon,Bike,24,6.0,74,So far
+10620.0,Windy,Medium,Afternoon,Car,22,5.0,54,Far
+10730.0,Clear,Medium,Afternoon,Bike,7,5.0,57,Far
+6230.0,Clear,Medium,Evening,Car,20,1.0,51,Close
+2140.0,Clear,Low,Afternoon,Bike,25,1.0,36,Very close
+12830.0,Clear,Medium,Morning,Bike,19,2.0,76,Far
+8370.0,Clear,High,Evening,Scooter,13,7.0,42,Close
+3690.0,Rainy,Medium,Afternoon,Bike,8,8.0,27,Very close
+18100.0,Clear,Low,Morning,Scooter,8,5.0,77,So far
+7060.0,Clear,Low,Afternoon,Scooter,26,5.0,51,Close
+1940.0,Foggy,Low,Night,Bike,10,1.0,25,Very close
+590.0,Clear,Low,Afternoon,Bike,21,0.0,27,Very close
+17010.0,Snowy,Low,Night,Bike,28,6.0,97,So far
+5360.0,Clear,Low,Afternoon,Scooter,11,4.0,30,Close
+12000.0,Clear,Low,Evening,Car,25,0.0,75,Far
+16230.0,Clear,Medium,Evening,Bike,6,0.0,54,So far
+19040.0,Rainy,Low,Evening,Car,12,6.0,60,So far
+18330.0,Foggy,Medium,Morning,Scooter,19,0.0,98,So far
+2580.0,Clear,Medium,Morning,Scooter,25,7.0,37,Very close
+4650.0,Clear,Medium,Evening,Bike,21,1.0,46,Very close
+17330.0,Snowy,Low,Evening,Scooter,12,3.0,79,So far
+680.0,Snowy,High,Evening,Bike,29,8.0,50,Very close
+19330.0,Clear,Medium,Morning,Bike,7,8.0,73,So far
+3420.0,Clear,Medium,Night,Car,11,9.0,24,Very close
+19020.0,Rainy,High,Evening,Scooter,22,1.0,106,So far
+17810.0,Windy,High,Evening,Bike,21,4.0,122,So far
+2670.0,Clear,Medium,Night,Car,17,6.0,28,Very close
+19240.0,Snowy,Low,Morning,Bike,26,1.0,114,So far
+14410.0,Rainy,Medium,Night,Bike,16,6.0,85,Far
+2410.0,Clear,Medium,Evening,Bike,15,9.0,25,Very close
+17980.0,Clear,Low,Evening,Bike,5,8.0,45,So far
+7340.0,Foggy,Medium,Afternoon,Bike,22,5.0,93,Close
+12510.0,Clear,Medium,Evening,Bike,18,5.0,62,Far
+4970.0,Rainy,Low,Evening,Bike,17,9.0,34,Very close
+19100.0,Snowy,Low,Afternoon,Bike,18,1.0,101,So far
+4640.0,Clear,Low,Afternoon,Bike,15,9.0,24,Very close
+14070.0,Rainy,Low,Evening,Bike,10,5.0,63,Far
+3790.0,Clear,Medium,Morning,Bike,13,2.0,34,Very close
+3960.0,Clear,Medium,Afternoon,Bike,23,4.579381443298969,44,Very close
+18310.0,Clear,Medium,Afternoon,Bike,25,3.0,79,So far
+6760.0,Foggy,Medium,Night,Bike,7,6.0,42,Close
+760.0,Clear,Low,Afternoon,Car,26,9.0,28,Very close
+5810.0,Rainy,Medium,Evening,Bike,14,8.0,41,Close
+12080.0,Clear,High,Afternoon,Scooter,16,4.0,60,Far
+1570.0,Rainy,Low,Evening,Car,16,1.0,30,Very close
+11890.0,Clear,Medium,Afternoon,Bike,28,0.0,79,Far
+7020.0,Clear,Medium,Evening,Car,23,2.0,53,Close
+13850.0,Clear,Low,Evening,Bike,29,5.0,71,Far
+9320.0,Rainy,Medium,Evening,Scooter,24,2.0,71,Close
+7720.0,Foggy,High,Evening,Bike,19,4.0,64,Close
+8150.0,Rainy,Low,Afternoon,Bike,26,2.0,50,Close
+3540.0,Rainy,Medium,Afternoon,Scooter,17,4.0,41,Very close
+3160.0,Snowy,Low,Morning,Car,9,4.579381443298969,27,Very close
+11650.0,Windy,Low,Night,Bike,10,3.0,53,Far
+5220.0,Snowy,Medium,Morning,Scooter,14,3.0,43,Close
+5410.0,Clear,High,Morning,Scooter,17,6.0,38,Close
+9880.0,Rainy,Medium,Morning,Car,7,0.0,43,Close
+19860.0,Rainy,High,Evening,Bike,12,8.0,71,So far
+5530.0,Windy,High,Morning,Bike,23,4.0,59,Close
+12460.0,Foggy,Low,Afternoon,Bike,10,1.0,62,Far
+1380.0,Clear,Medium,Morning,Car,6,3.0,17,Very close
+10790.0,Clear,Medium,Evening,Scooter,24,1.0,65,Far
+14230.0,Clear,Medium,Afternoon,Scooter,23,7.0,70,Far
+1210.0,Snowy,Low,Afternoon,Bike,22,1.0,39,Very close
+11100.0,Clear,Low,Afternoon,Bike,18,7.0,56,Far
+17100.0,Clear,Medium,Evening,Bike,25,5.0,65,So far
+3220.0,Clear,Medium,Afternoon,Bike,19,9.0,32,Very close
+19270.0,Foggy,Medium,Morning,Car,29,9.0,85,So far
+2820.0,Rainy,Medium,Evening,Scooter,10,1.0,29,Very close
+7670.0,Foggy,Medium,Afternoon,Scooter,22,8.0,59,Close
+16070.0,Clear,Medium,Evening,Bike,16,5.0,64,So far
+7970.0,Windy,Medium,Evening,Scooter,9,8.0,35,Close
+18000.0,Rainy,High,Night,Car,22,4.579381443298969,98,So far
+16170.000000000002,Clear,Medium,Evening,Scooter,12,2.0,78,So far
+14860.0,Clear,High,Night,Scooter,15,4.0,91,Far
+11680.0,Clear,Medium,Afternoon,Scooter,25,7.0,70,Far
+12590.0,Clear,Low,Evening,Scooter,10,2.0,39,Far
+8960.0,Snowy,Medium,Morning,Car,6,5.0,51,Close
+16510.0,Clear,Medium,Morning,Bike,7,1.0,79,So far
+16010.000000000002,Clear,Low,Afternoon,Car,12,4.0,72,So far
+19740.0,Rainy,High,Afternoon,Scooter,11,7.0,81,So far
+8640.0,Snowy,Low,Evening,Bike,29,4.0,62,Close
+5130.0,Clear,Medium,Morning,Car,16,1.0,38,Close
+5780.0,Clear,High,Morning,Bike,11,5.0,38,Close
+2600.0,Clear,Low,Afternoon,Bike,16,1.0,29,Very close
+2340.0,Foggy,Medium,Morning,Bike,8,2.0,28,Very close
+12930.0,Clear,Medium,Morning,Scooter,20,8.0,58,Far
+1600.0,Clear,Medium,Evening,Bike,14,8.0,24,Very close
+7440.0,Rainy,Low,Evening,Bike,27,4.579381443298969,53,Close
+14390.0,Rainy,Medium,Morning,Scooter,6,4.579381443298969,50,Far
+6070.0,Clear,Low,Afternoon,Bike,18,4.0,35,Close
+17970.0,Windy,Medium,Morning,Scooter,28,7.0,92,So far
+17530.0,Clear,Low,Afternoon,Bike,14,6.0,79,So far
+12430.0,Rainy,High,Morning,Bike,13,6.0,70,Far
+10890.0,Windy,Medium,Evening,Bike,7,0.0,58,Far
+4370.0,Clear,Medium,Evening,Scooter,6,7.0,25,Very close
+8500.0,Clear,High,Evening,Car,13,3.0,54,Close
+16280.000000000002,Rainy,Low,Morning,Scooter,8,9.0,71,So far
+15620.0,Snowy,High,Evening,Scooter,26,2.0,81,So far
+14170.0,Clear,Low,Afternoon,Bike,8,0.0,55,Far
+6630.0,Foggy,Low,Night,Scooter,24,3.0,58,Close
